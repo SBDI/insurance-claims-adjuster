@@ -1,0 +1,4 @@
+llama-index
+together
+pydantic
+python-dotenv

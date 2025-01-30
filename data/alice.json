@@ -1,0 +1,9 @@
+{
+    "claim_number": "CLAIM-0002",
+    "policy_number": "POLICY-XYZ789",
+    "claimant_name": "Alice Johnson",
+    "date_of_loss": "2024-04-15",
+    "loss_description": "Rear-ended another vehicle at a stoplight, causing damage to the rear bumper and trunk.",
+    "estimated_repair_cost": 2200.0,
+    "vehicle_details": "2021 Toyota Camry"
+}
